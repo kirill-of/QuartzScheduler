@@ -1,4 +1,4 @@
-# QuartzScheduler
+# Quartz Scheduler
 Test project for quartz scheduler
 
 Синтаксик cron
